@@ -1,0 +1,6 @@
+- https://developer.mozilla.org/en-US/
+- https://webkit.org/
+- https://webstatus.dev/
+- https://whattrainisitnow.com/calendar/ (Firefox Release Calendar)
+- https://chromestatus.com/roadmap
+- https://x.com/FirefoxWebDevs
