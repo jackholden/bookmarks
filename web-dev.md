@@ -4,3 +4,5 @@
 - https://whattrainisitnow.com/calendar/ (Firefox Release Calendar)
 - https://chromestatus.com/roadmap
 - https://x.com/FirefoxWebDevs
+- https://caniuse.com/
+- https://web-platform-dx.github.io/web-features-explorer/newly-available/
