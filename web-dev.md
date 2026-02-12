@@ -6,3 +6,4 @@
 - https://x.com/FirefoxWebDevs
 - https://caniuse.com/
 - https://web-platform-dx.github.io/web-features-explorer/newly-available/
+- https://wpt.fyi/
