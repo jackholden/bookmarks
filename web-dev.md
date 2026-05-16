@@ -9,7 +9,10 @@
 - https://wpt.fyi/
 - https://basewatch.dev
 
-### Watching
+### Domains
+- https://tld-list.com/
+
+### Web platform features (watching)
 #### HTML
 - https://caniuse.com/loading-lazy-media
 - https://chromestatus.com/feature/4790543041298432
