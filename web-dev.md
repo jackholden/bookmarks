@@ -16,9 +16,13 @@
 #### HTML
 - https://caniuse.com/loading-lazy-media
 - https://chromestatus.com/feature/4790543041298432
+- https://caniuse.com/wf-blocking-render
+- https://caniuse.com/wf-speculation-rules
+- https://caniuse.com/mdn-html_elements_script_type_importmap_multiple_import_maps
 
 #### CSS
 - https://caniuse.com/?search=text-box-trim
+- https://caniuse.com/wf-has-slotted
 
 ### JS
 - https://caniuse.com/wf-scoped-custom-element-registries
@@ -29,3 +33,4 @@
 - https://caniuse.com/mdn-api_shadowroot_referencetarget
 - https://microsoftedge.github.io/Demos/platform-provided-behaviors-for-custom-elements/
 - https://caniuse.com/wf-css-modules
+- https://caniuse.com/mdn-api_closewatcher_requestclose
