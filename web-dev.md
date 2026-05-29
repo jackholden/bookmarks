@@ -35,5 +35,5 @@
 - https://caniuse.com/wf-css-modules
 - https://caniuse.com/mdn-api_closewatcher_requestclose
 
-## Github issue watching
+### Github issue watching
 - https://github.com/w3c/aria/issues/2663
