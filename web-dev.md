@@ -8,6 +8,7 @@
 - https://web-platform-dx.github.io/web-features-explorer/newly-available/
 - https://wpt.fyi/
 - https://basewatch.dev
+- https://mozilla.github.io/standards-positions/
 
 ### Domains
 - https://tld-list.com/
