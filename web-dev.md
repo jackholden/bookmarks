@@ -38,3 +38,4 @@
 
 ### Github issue watching
 - https://github.com/w3c/aria/issues/2663
+- https://github.com/whatwg/html/issues/10852
